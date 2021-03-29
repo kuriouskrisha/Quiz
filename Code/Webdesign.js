@@ -17,7 +17,7 @@ function check(){
 	element.setAttribute("name", "btnQuizHomeName");
 	element.textContent = 'Click HERE to play again!';
 	element.className = 'btnQuizHomeClass';
-	element.setAttribute("href", "../quiz.html");
+	element.setAttribute("href", "../index.html");
 	var resultsSpan = document.getElementById("resultSpan");
 	resultsSpan.appendChild(element);
 
