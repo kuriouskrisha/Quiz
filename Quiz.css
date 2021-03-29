@@ -1,0 +1,37 @@
+body{
+	background-color:rgba(255, 0, 0, 0.2);
+	color: black;
+	font-size: 20px ;
+	font-family: Helvetica;
+	margin-left: 2rem;
+	text-align: center;	
+}
+
+a:link, a:visited {
+  background-color: MediumSeaGreen;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 8px;
+	padding: 14px 25px;
+	cursor: pointer;
+}	
+
+#science{background-color: Tomato;}
+#animals{ background-color: MediumSeaGreen;}
+#history{ background-color: #0e76a8;}
+#funFacts{ background-color: Orange;}
+#dinosaurs{background-color: Tomato;}
+#scientists{ background-color: #0e76a8;}
+#solarSystem{ background-color: #808000;}
+#webDesign{ background-color: Orange;}
+
+h1, h2, h3, h6 {
+   text-shadow: 2px 2px 5px green;
+}
+
+.copyright{
+	margin-top:80px;
+}
